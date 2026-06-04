@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-29",
+  "mood": 7,
+  "energy": 7,
+  "sleepHours": 8.3,
+  "dayRating": 8,
+  "gratitude": "Grateful for this co-living community",
+  "notes": "Brainstormed LinkedIn content strategy. 10 posts ready.",
+  "topPriorities": [
+    {
+      "text": "AI OS improvements",
+      "done": false
+    },
+    {
+      "text": "Flowsulting CTA testing",
+      "done": false
+    },
+    {
+      "text": "Evening reflection",
+      "done": true
+    }
+  ],
+  "wins": [
+    "Closed a $500 AI audit",
+    "Great feedback from mentor"
+  ],
+  "lessons": [
+    "Client calls should have a clear agenda"
+  ],
+  "createdAt": "2026-05-29T07:00:00Z",
+  "updatedAt": "2026-05-29T21:00:00Z"
+}

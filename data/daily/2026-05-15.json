@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-15",
+  "mood": 7,
+  "energy": 6,
+  "sleepHours": 6.6,
+  "dayRating": 8,
+  "gratitude": "Good conversation with the team at ExVenture",
+  "notes": "Afternoon slump but recovered with a walk.",
+  "topPriorities": [
+    {
+      "text": "HeyGen pipeline test",
+      "done": true
+    },
+    {
+      "text": "Client proposal draft",
+      "done": false
+    },
+    {
+      "text": "Meditation + exercise",
+      "done": true
+    }
+  ],
+  "wins": [
+    "Video pipeline fully automated",
+    "No bugs today"
+  ],
+  "lessons": [
+    "Take breaks \u2014 productivity drops after 4h straight"
+  ],
+  "createdAt": "2026-05-15T07:00:00Z",
+  "updatedAt": "2026-05-15T21:00:00Z"
+}

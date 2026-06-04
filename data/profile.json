@@ -1,0 +1,14 @@
+{
+  "name": "Flo",
+  "timezone": "Asia/Makassar",
+  "startDate": "2026-04-01",
+  "currentQuarter": "Q2-2026",
+  "lifeAreas": {
+    "health": { "score": 7, "updatedAt": "2026-06-02" },
+    "finance": { "score": 6, "updatedAt": "2026-06-01" },
+    "career": { "score": 8, "updatedAt": "2026-06-03" },
+    "relationships": { "score": 7, "updatedAt": "2026-05-28" },
+    "growth": { "score": 9, "updatedAt": "2026-06-03" },
+    "fulfillment": { "score": 8, "updatedAt": "2026-06-02" }
+  }
+}

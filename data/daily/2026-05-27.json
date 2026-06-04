@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-27",
+  "mood": 6,
+  "energy": 8,
+  "sleepHours": 6.6,
+  "dayRating": 9,
+  "gratitude": "Morning meditation was especially clear today",
+  "notes": "Solid day. High energy, good output.",
+  "topPriorities": [
+    {
+      "text": "Chrome CDP fix",
+      "done": true
+    },
+    {
+      "text": "Ship log update",
+      "done": true
+    },
+    {
+      "text": "Content calendar review",
+      "done": true
+    }
+  ],
+  "wins": [
+    "Video pipeline fully automated",
+    "No bugs today"
+  ],
+  "lessons": [
+    "The best marketing is showing real work"
+  ],
+  "createdAt": "2026-05-27T07:00:00Z",
+  "updatedAt": "2026-05-27T21:00:00Z"
+}

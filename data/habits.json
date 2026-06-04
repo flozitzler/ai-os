@@ -1,0 +1,35 @@
+{
+  "habits": [
+    { "id": "wake-early", "name": "Wake before 7am", "emoji": "sunrise", "block": "morning", "createdAt": "2026-04-01" },
+    { "id": "meditate", "name": "Meditate 10min", "emoji": "brain", "block": "morning", "createdAt": "2026-04-01" },
+    { "id": "exercise", "name": "Exercise", "emoji": "dumbbell", "block": "day", "createdAt": "2026-04-01" },
+    { "id": "deep-work", "name": "2h deep work", "emoji": "fire", "block": "day", "createdAt": "2026-04-01" },
+    { "id": "ship", "name": "Ship something", "emoji": "rocket", "block": "day", "createdAt": "2026-04-15" },
+    { "id": "read", "name": "Read 20 pages", "emoji": "book", "block": "evening", "createdAt": "2026-04-01" },
+    { "id": "gratitude", "name": "Gratitude journal", "emoji": "heart", "block": "evening", "createdAt": "2026-04-01" },
+    { "id": "no-phone", "name": "No phone after 10pm", "emoji": "moon", "block": "evening", "createdAt": "2026-04-20" }
+  ],
+  "completions": {
+    "2026-06-04": { "wake-early": true, "meditate": true, "exercise": false, "deep-work": true, "ship": true, "read": false, "gratitude": false, "no-phone": false },
+    "2026-06-03": { "wake-early": true, "meditate": true, "exercise": true, "deep-work": true, "ship": true, "read": true, "gratitude": true, "no-phone": true },
+    "2026-06-02": { "wake-early": true, "meditate": false, "exercise": true, "deep-work": true, "ship": true, "read": true, "gratitude": true, "no-phone": false },
+    "2026-06-01": { "wake-early": false, "meditate": true, "exercise": false, "deep-work": true, "ship": false, "read": true, "gratitude": true, "no-phone": true },
+    "2026-05-31": { "wake-early": true, "meditate": true, "exercise": true, "deep-work": true, "ship": true, "read": false, "gratitude": true, "no-phone": true },
+    "2026-05-30": { "wake-early": true, "meditate": true, "exercise": true, "deep-work": false, "ship": true, "read": true, "gratitude": true, "no-phone": true },
+    "2026-05-29": { "wake-early": true, "meditate": false, "exercise": true, "deep-work": true, "ship": true, "read": true, "gratitude": false, "no-phone": true },
+    "2026-05-28": { "wake-early": false, "meditate": true, "exercise": false, "deep-work": true, "ship": false, "read": true, "gratitude": true, "no-phone": false },
+    "2026-05-27": { "wake-early": true, "meditate": true, "exercise": true, "deep-work": true, "ship": true, "read": false, "gratitude": true, "no-phone": true },
+    "2026-05-26": { "wake-early": true, "meditate": true, "exercise": true, "deep-work": true, "ship": true, "read": true, "gratitude": true, "no-phone": true },
+    "2026-05-25": { "wake-early": true, "meditate": false, "exercise": true, "deep-work": false, "ship": false, "read": true, "gratitude": true, "no-phone": true },
+    "2026-05-24": { "wake-early": true, "meditate": true, "exercise": false, "deep-work": true, "ship": true, "read": true, "gratitude": false, "no-phone": true },
+    "2026-05-23": { "wake-early": false, "meditate": true, "exercise": true, "deep-work": true, "ship": true, "read": false, "gratitude": true, "no-phone": false },
+    "2026-05-22": { "wake-early": true, "meditate": true, "exercise": true, "deep-work": true, "ship": true, "read": true, "gratitude": true, "no-phone": true },
+    "2026-05-21": { "wake-early": true, "meditate": false, "exercise": true, "deep-work": true, "ship": false, "read": true, "gratitude": true, "no-phone": true },
+    "2026-05-20": { "wake-early": true, "meditate": true, "exercise": false, "deep-work": true, "ship": true, "read": false, "gratitude": true, "no-phone": true },
+    "2026-05-19": { "wake-early": false, "meditate": true, "exercise": true, "deep-work": false, "ship": true, "read": true, "gratitude": false, "no-phone": true },
+    "2026-05-18": { "wake-early": true, "meditate": true, "exercise": true, "deep-work": true, "ship": true, "read": true, "gratitude": true, "no-phone": false },
+    "2026-05-17": { "wake-early": true, "meditate": false, "exercise": true, "deep-work": true, "ship": false, "read": true, "gratitude": true, "no-phone": true },
+    "2026-05-16": { "wake-early": true, "meditate": true, "exercise": false, "deep-work": true, "ship": true, "read": false, "gratitude": true, "no-phone": true },
+    "2026-05-15": { "wake-early": false, "meditate": true, "exercise": true, "deep-work": true, "ship": true, "read": true, "gratitude": true, "no-phone": true }
+  }
+}

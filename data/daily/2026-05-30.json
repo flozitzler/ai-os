@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-30",
+  "mood": 9,
+  "energy": 7,
+  "sleepHours": 7.9,
+  "dayRating": 7,
+  "gratitude": "A stranger complimented my work online",
+  "notes": "Debugging the Chrome CDP setup took longer than expected.",
+  "topPriorities": [
+    {
+      "text": "LinkedIn post #4",
+      "done": true
+    },
+    {
+      "text": "Agent digest testing",
+      "done": true
+    },
+    {
+      "text": "Read AI papers",
+      "done": true
+    }
+  ],
+  "wins": [
+    "Finished chapter 3 of the report",
+    "Deep work streak: 3 days"
+  ],
+  "lessons": [
+    "Ship imperfect, iterate fast"
+  ],
+  "createdAt": "2026-05-30T07:00:00Z",
+  "updatedAt": "2026-05-30T21:00:00Z"
+}

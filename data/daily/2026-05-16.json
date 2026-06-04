@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-16",
+  "mood": 8,
+  "energy": 8,
+  "sleepHours": 7.0,
+  "dayRating": 8,
+  "gratitude": "Good food and focus today",
+  "notes": "Good energy today. Shipped 3 things before noon.",
+  "topPriorities": [
+    {
+      "text": "Deploy chatbot update",
+      "done": false
+    },
+    {
+      "text": "Create Instagram carousel",
+      "done": true
+    },
+    {
+      "text": "Deep work on Studienarbeit",
+      "done": false
+    }
+  ],
+  "wins": [
+    "Video pipeline fully automated",
+    "No bugs today"
+  ],
+  "lessons": [
+    "The best marketing is showing real work"
+  ],
+  "createdAt": "2026-05-16T07:00:00Z",
+  "updatedAt": "2026-05-16T21:00:00Z"
+}

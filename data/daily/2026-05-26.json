@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-26",
+  "mood": 7,
+  "energy": 7,
+  "sleepHours": 5.9,
+  "dayRating": 9,
+  "gratitude": "Shipped something meaningful today",
+  "notes": "Reviewed analytics \u2014 chatbot conversion rate is 12%.",
+  "topPriorities": [
+    {
+      "text": "HeyGen pipeline test",
+      "done": false
+    },
+    {
+      "text": "Client proposal draft",
+      "done": false
+    },
+    {
+      "text": "Meditation + exercise",
+      "done": false
+    }
+  ],
+  "wins": [
+    "Chatbot got a real lead",
+    "Shipped the daily pipeline"
+  ],
+  "lessons": [
+    "Ship imperfect, iterate fast"
+  ],
+  "createdAt": "2026-05-26T07:00:00Z",
+  "updatedAt": "2026-05-26T21:00:00Z"
+}

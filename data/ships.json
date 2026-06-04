@@ -1,0 +1,25 @@
+{
+  "entries": [
+    { "id": "s1", "date": "2026-06-04", "title": "AI OS deployed to Vercel", "description": "Life-system dashboard live and linked with Flowsulting", "category": "product", "impact": "launch", "createdAt": "2026-06-04T10:00:00Z" },
+    { "id": "s2", "date": "2026-06-03", "title": "NeuraDe merge complete", "description": "All content, leads, and branding consolidated into Flowsulting", "category": "product", "impact": "big", "createdAt": "2026-06-03T14:00:00Z" },
+    { "id": "s3", "date": "2026-06-02", "title": "AI research triggers live", "description": "3 automated agents: Slack brief, blog email, breaking news scanner every 6h", "category": "automation", "impact": "big", "createdAt": "2026-06-02T09:00:00Z" },
+    { "id": "s4", "date": "2026-06-01", "title": "@aibyflo Instagram launched", "description": "Telegram bot + comment monitor + 7 automation scripts running", "category": "content", "impact": "launch", "createdAt": "2026-06-01T11:00:00Z" },
+    { "id": "s5", "date": "2026-05-30", "title": "Viral pipeline v2", "description": "Two-voice dialogue format with Minecraft bg + zoom punch captions", "category": "automation", "impact": "big", "createdAt": "2026-05-30T15:00:00Z" },
+    { "id": "s6", "date": "2026-05-28", "title": "Chatbot closed first deal", "description": "Real estate agency booked via Flowsulting chatbot demo", "category": "product", "impact": "big", "revenueGenerated": 1500, "createdAt": "2026-05-28T10:00:00Z" },
+    { "id": "s7", "date": "2026-05-25", "title": "HeyGen daily pipeline", "description": "Automated video production: script -> avatar -> b-roll -> post-pro -> YouTube + Slack", "category": "automation", "impact": "launch", "createdAt": "2026-05-25T08:00:00Z" },
+    { "id": "s8", "date": "2026-05-22", "title": "Agent daily ops digest", "description": "Mon-Fri 5pm WITA digest of all 9 agent activities to Slack", "category": "automation", "impact": "medium", "createdAt": "2026-05-22T17:00:00Z" },
+    { "id": "s9", "date": "2026-05-20", "title": "LinkedIn build-in-public series", "description": "10 evergreen posts drafted and scheduled", "category": "content", "impact": "medium", "createdAt": "2026-05-20T13:00:00Z" },
+    { "id": "s10", "date": "2026-05-18", "title": "Flowsulting free resources hub", "description": "14 resource pages covering AI frameworks, prompts, automation guides", "category": "content", "impact": "big", "createdAt": "2026-05-18T12:00:00Z" },
+    { "id": "s11", "date": "2026-05-15", "title": "Morning brief pipeline", "description": "Longform morning brief with HeyGen API, DeepSeek fallback, 09:00 WITA delivery", "category": "automation", "impact": "big", "createdAt": "2026-05-15T09:00:00Z" },
+    { "id": "s12", "date": "2026-05-10", "title": "Chrome CDP video infrastructure", "description": "Headless Chrome 9222, launchd agents, Slack/YouTube/Instagram distribution", "category": "code", "impact": "big", "createdAt": "2026-05-10T14:00:00Z" }
+  ],
+  "milestones": [
+    { "amount": 1, "label": "First Dollar", "reachedDate": "2026-05-15" },
+    { "amount": 100, "label": "$100", "reachedDate": "2026-05-15" },
+    { "amount": 1000, "label": "$1K", "reachedDate": "2026-05-28" },
+    { "amount": 5000, "label": "$5K", "reachedDate": null },
+    { "amount": 10000, "label": "$10K", "reachedDate": null },
+    { "amount": 50000, "label": "$50K", "reachedDate": null },
+    { "amount": 100000, "label": "$100K", "reachedDate": null }
+  ]
+}

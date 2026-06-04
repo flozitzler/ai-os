@@ -1,0 +1,31 @@
+{
+  "date": "2026-05-19",
+  "mood": 7,
+  "energy": 5,
+  "sleepHours": 8.4,
+  "dayRating": 7,
+  "gratitude": "Morning meditation was especially clear today",
+  "notes": "Good energy today. Shipped 3 things before noon.",
+  "topPriorities": [
+    {
+      "text": "Chrome CDP fix",
+      "done": false
+    },
+    {
+      "text": "Ship log update",
+      "done": false
+    },
+    {
+      "text": "Content calendar review",
+      "done": false
+    }
+  ],
+  "wins": [
+    "Client signed the AI-Starter package"
+  ],
+  "lessons": [
+    "Automate before you scale manually"
+  ],
+  "createdAt": "2026-05-19T07:00:00Z",
+  "updatedAt": "2026-05-19T21:00:00Z"
+}

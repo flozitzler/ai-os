@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-24",
+  "mood": 8,
+  "energy": 8,
+  "sleepHours": 7.2,
+  "dayRating": 9,
+  "gratitude": "Grateful for the Bali sunrise this morning",
+  "notes": "Good energy today. Shipped 3 things before noon.",
+  "topPriorities": [
+    {
+      "text": "Ship AI OS demo",
+      "done": false
+    },
+    {
+      "text": "Finish Flowsulting landing page",
+      "done": false
+    },
+    {
+      "text": "Write LinkedIn post",
+      "done": true
+    }
+  ],
+  "wins": [
+    "Closed a $500 AI audit",
+    "Great feedback from mentor"
+  ],
+  "lessons": [
+    "Morning routine sets the tone for everything"
+  ],
+  "createdAt": "2026-05-24T07:00:00Z",
+  "updatedAt": "2026-05-24T21:00:00Z"
+}

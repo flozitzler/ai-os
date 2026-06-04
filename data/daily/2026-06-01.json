@@ -1,0 +1,31 @@
+{
+  "date": "2026-06-01",
+  "mood": 8,
+  "energy": 8,
+  "sleepHours": 6.8,
+  "dayRating": 7,
+  "gratitude": "Good sleep last night, felt the difference",
+  "notes": "Brainstormed LinkedIn content strategy. 10 posts ready.",
+  "topPriorities": [
+    {
+      "text": "Ship AI OS demo",
+      "done": false
+    },
+    {
+      "text": "Finish Flowsulting landing page",
+      "done": true
+    },
+    {
+      "text": "Write LinkedIn post",
+      "done": false
+    }
+  ],
+  "wins": [
+    "LinkedIn post got 50 reactions"
+  ],
+  "lessons": [
+    "Take breaks \u2014 productivity drops after 4h straight"
+  ],
+  "createdAt": "2026-06-01T07:00:00Z",
+  "updatedAt": "2026-06-01T21:00:00Z"
+}

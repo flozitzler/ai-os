@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-17",
+  "mood": 7,
+  "energy": 6,
+  "sleepHours": 6.4,
+  "dayRating": 8,
+  "gratitude": "Grateful for this co-living community",
+  "notes": "Solid day. High energy, good output.",
+  "topPriorities": [
+    {
+      "text": "Client call at 2pm",
+      "done": true
+    },
+    {
+      "text": "Fix video pipeline bug",
+      "done": true
+    },
+    {
+      "text": "Review internship chapter",
+      "done": true
+    }
+  ],
+  "wins": [
+    "Morning brief running flawlessly",
+    "Good exercise session"
+  ],
+  "lessons": [
+    "B-roll quality matters more than avatar quality"
+  ],
+  "createdAt": "2026-05-17T07:00:00Z",
+  "updatedAt": "2026-05-17T21:00:00Z"
+}

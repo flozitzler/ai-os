@@ -1,0 +1,31 @@
+{
+  "date": "2026-05-31",
+  "mood": 8,
+  "energy": 7,
+  "sleepHours": 6.6,
+  "dayRating": 9,
+  "gratitude": "The Flowsulting chatbot got its first real lead",
+  "notes": "Worked on AI OS dashboard improvements.",
+  "topPriorities": [
+    {
+      "text": "Deploy chatbot update",
+      "done": true
+    },
+    {
+      "text": "Create Instagram carousel",
+      "done": true
+    },
+    {
+      "text": "Deep work on Studienarbeit",
+      "done": true
+    }
+  ],
+  "wins": [
+    "Meditation streak: 7 days"
+  ],
+  "lessons": [
+    "Client calls should have a clear agenda"
+  ],
+  "createdAt": "2026-05-31T07:00:00Z",
+  "updatedAt": "2026-05-31T21:00:00Z"
+}

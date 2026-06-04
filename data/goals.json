@@ -1,0 +1,63 @@
+{
+  "quarter": "Q2-2026",
+  "goals": [
+    {
+      "id": "g1",
+      "title": "Launch Flowsulting publicly",
+      "description": "Get the AI consulting business live with landing page, demos, and first paying clients",
+      "deadline": "2026-06-30",
+      "status": "active",
+      "keyResults": [
+        { "id": "kr1a", "text": "Deploy live landing page with chatbot demo", "done": false, "progress": 75 },
+        { "id": "kr1b", "text": "Close 3 paying clients", "done": false, "progress": 33 },
+        { "id": "kr1c", "text": "Publish 10 free resource pages", "done": true, "progress": 100 },
+        { "id": "kr1d", "text": "Set up lead pipeline (Calendly + email)", "done": true, "progress": 100 }
+      ],
+      "lastWorkedOn": "2026-06-03",
+      "createdAt": "2026-04-01"
+    },
+    {
+      "id": "g2",
+      "title": "Build AI content empire",
+      "description": "Automate video production, grow social presence, ship daily content across platforms",
+      "deadline": "2026-06-30",
+      "status": "active",
+      "keyResults": [
+        { "id": "kr2a", "text": "Automated daily video pipeline running", "done": true, "progress": 100 },
+        { "id": "kr2b", "text": "Reach 1000 followers across platforms", "done": false, "progress": 45 },
+        { "id": "kr2c", "text": "Post 5x/week on LinkedIn", "done": false, "progress": 60 },
+        { "id": "kr2d", "text": "Launch @aibyflo Instagram", "done": true, "progress": 100 }
+      ],
+      "lastWorkedOn": "2026-06-04",
+      "createdAt": "2026-04-01"
+    },
+    {
+      "id": "g3",
+      "title": "Complete internship report",
+      "description": "Write and submit Studienarbeit for ExVenture internship",
+      "deadline": "2026-07-15",
+      "status": "active",
+      "keyResults": [
+        { "id": "kr3a", "text": "Draft all 6 chapters", "done": false, "progress": 50 },
+        { "id": "kr3b", "text": "Include real project case studies", "done": false, "progress": 40 },
+        { "id": "kr3c", "text": "Get supervisor review", "done": false, "progress": 0 }
+      ],
+      "lastWorkedOn": "2026-05-30",
+      "createdAt": "2026-04-15"
+    },
+    {
+      "id": "g4",
+      "title": "Hit $2K monthly recurring revenue",
+      "description": "Combine consulting, content monetization, and AI tools for sustainable income",
+      "deadline": "2026-06-30",
+      "status": "active",
+      "keyResults": [
+        { "id": "kr4a", "text": "First consulting invoice sent", "done": true, "progress": 100 },
+        { "id": "kr4b", "text": "Recurring client on retainer", "done": false, "progress": 20 },
+        { "id": "kr4c", "text": "Revenue tracking automated", "done": false, "progress": 60 }
+      ],
+      "lastWorkedOn": "2026-06-01",
+      "createdAt": "2026-04-01"
+    }
+  ]
+}

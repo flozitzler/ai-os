@@ -1,0 +1,31 @@
+{
+  "date": "2026-06-02",
+  "mood": 7,
+  "energy": 7,
+  "sleepHours": 6.0,
+  "dayRating": 6,
+  "gratitude": "Grateful for this co-living community",
+  "notes": "Wrote the NeuraDe -> Flowsulting merge plan.",
+  "topPriorities": [
+    {
+      "text": "Morning brief optimization",
+      "done": true
+    },
+    {
+      "text": "Flowsulting resources page",
+      "done": true
+    },
+    {
+      "text": "Exercise",
+      "done": true
+    }
+  ],
+  "wins": [
+    "Client signed the AI-Starter package"
+  ],
+  "lessons": [
+    "Sleep quality directly affects creative output"
+  ],
+  "createdAt": "2026-06-02T07:00:00Z",
+  "updatedAt": "2026-06-02T21:00:00Z"
+}

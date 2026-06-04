@@ -1,0 +1,31 @@
+{
+  "date": "2026-06-03",
+  "mood": 9,
+  "energy": 9,
+  "sleepHours": 8.2,
+  "dayRating": 7,
+  "gratitude": "Grateful for the Bali sunrise this morning",
+  "notes": "Great feedback from ExVenture mentor on my progress.",
+  "topPriorities": [
+    {
+      "text": "Client call at 2pm",
+      "done": true
+    },
+    {
+      "text": "Fix video pipeline bug",
+      "done": true
+    },
+    {
+      "text": "Review internship chapter",
+      "done": true
+    }
+  ],
+  "wins": [
+    "Client signed the AI-Starter package"
+  ],
+  "lessons": [
+    "Sleep quality directly affects creative output"
+  ],
+  "createdAt": "2026-06-03T07:00:00Z",
+  "updatedAt": "2026-06-03T21:00:00Z"
+}

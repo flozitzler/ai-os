@@ -1,0 +1,72 @@
+{
+  "decisions": [
+    {
+      "id": "d1",
+      "date": "2026-05-15",
+      "title": "Merge NeuraDe into Flowsulting",
+      "context": "Running two brands for the same consulting service was splitting attention and confusing positioning",
+      "options": "Keep both brands separate, merge into Flowsulting, merge into NeuraDe, create a third brand",
+      "decision": "Merge everything under Flowsulting — cleaner, more memorable, broader scope",
+      "expectedOutcome": "One strong brand, clearer messaging, faster growth",
+      "confidence": 8,
+      "stakes": "high",
+      "category": "strategy",
+      "status": "resolved",
+      "actualOutcome": "Clean merge completed. All content consolidated. Much simpler to manage.",
+      "outcome": "as-expected",
+      "resolvedDate": "2026-06-03",
+      "lessonsLearned": "Two brands for the same service is always a trap. Merge early.",
+      "createdAt": "2026-05-15T10:00:00Z"
+    },
+    {
+      "id": "d2",
+      "date": "2026-05-20",
+      "title": "Use JSON file storage for AI OS instead of Supabase",
+      "context": "Building the life-system dashboard and choosing data layer. Supabase adds complexity but is production-ready.",
+      "options": "Supabase from day one, JSON files with migration later, SQLite, Vercel KV",
+      "decision": "Start with JSON files — Claude Code can read/write them directly, fastest to build and iterate",
+      "expectedOutcome": "Ship the MVP in days not weeks. Migrate to Supabase when deploying publicly.",
+      "confidence": 7,
+      "stakes": "medium",
+      "category": "tech",
+      "status": "resolved",
+      "actualOutcome": "MVP built fast. Now deploying publicly with demo data.",
+      "outcome": "as-expected",
+      "resolvedDate": "2026-06-04",
+      "createdAt": "2026-05-20T14:00:00Z"
+    },
+    {
+      "id": "d3",
+      "date": "2026-06-01",
+      "title": "LinkedIn strategy: pure build-in-public, no selling",
+      "context": "Need to grow professional presence but don't want to be seen as pushy or salesy",
+      "options": "Mix content + pitches, pure value content, build-in-public only, don't post at all",
+      "decision": "Build-in-public only — share what I build, let people come to me",
+      "expectedOutcome": "Authentic following that converts naturally when they see the work",
+      "confidence": 8,
+      "stakes": "medium",
+      "category": "marketing",
+      "status": "pending",
+      "createdAt": "2026-06-01T09:00:00Z"
+    },
+    {
+      "id": "d4",
+      "date": "2026-04-10",
+      "title": "Use HeyGen for video avatars instead of recording myself",
+      "context": "Need daily video content but can't record every day. AI avatars could automate this.",
+      "options": "Record weekly batches, use HeyGen avatars, text-only content, hire a video editor",
+      "decision": "HeyGen with Madelyn avatar + automated b-roll pipeline",
+      "expectedOutcome": "Daily videos without manual recording. Professional look at scale.",
+      "confidence": 7,
+      "stakes": "medium",
+      "category": "product",
+      "status": "resolved",
+      "actualOutcome": "Full pipeline running. Daily videos published automatically to YouTube + Slack.",
+      "outcome": "better-than-expected",
+      "resolvedDate": "2026-05-25",
+      "lessonsLearned": "Avatar quality is good enough for news/explainers. Personal face still needed for trust-building content.",
+      "createdAt": "2026-04-10T11:00:00Z"
+    }
+  ],
+  "categories": ["product", "hiring", "finance", "strategy", "personal", "tech", "marketing", "other"]
+}

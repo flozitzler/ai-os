@@ -1,0 +1,31 @@
+{
+  "date": "2026-05-25",
+  "mood": 7,
+  "energy": 8,
+  "sleepHours": 6.8,
+  "dayRating": 8,
+  "gratitude": "Grateful for the internship opportunity at ExVenture",
+  "notes": "Wrote the NeuraDe -> Flowsulting merge plan.",
+  "topPriorities": [
+    {
+      "text": "Morning brief optimization",
+      "done": true
+    },
+    {
+      "text": "Flowsulting resources page",
+      "done": true
+    },
+    {
+      "text": "Exercise",
+      "done": true
+    }
+  ],
+  "wins": [
+    "Client signed the AI-Starter package"
+  ],
+  "lessons": [
+    "Morning routine sets the tone for everything"
+  ],
+  "createdAt": "2026-05-25T07:00:00Z",
+  "updatedAt": "2026-05-25T21:00:00Z"
+}

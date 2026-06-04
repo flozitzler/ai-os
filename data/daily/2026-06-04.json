@@ -1,0 +1,31 @@
+{
+  "date": "2026-06-04",
+  "mood": 8,
+  "energy": 8,
+  "sleepHours": 6.4,
+  "dayRating": 7,
+  "gratitude": "Good conversation with the team at ExVenture",
+  "notes": "Spent the afternoon on the internship report. Chapter 3 is done.",
+  "topPriorities": [
+    {
+      "text": "Morning brief optimization",
+      "done": true
+    },
+    {
+      "text": "Flowsulting resources page",
+      "done": true
+    },
+    {
+      "text": "Exercise",
+      "done": true
+    }
+  ],
+  "wins": [
+    "LinkedIn post got 50 reactions"
+  ],
+  "lessons": [
+    "Don't try to build two things at once \u2014 focus"
+  ],
+  "createdAt": "2026-06-04T07:00:00Z",
+  "updatedAt": "2026-06-04T21:00:00Z"
+}

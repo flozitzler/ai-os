@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-20",
+  "mood": 9,
+  "energy": 7,
+  "sleepHours": 7.5,
+  "dayRating": 8,
+  "gratitude": "The chatbot demo actually impressed a client",
+  "notes": "Deep work on video pipeline automation. Got the b-roll working.",
+  "topPriorities": [
+    {
+      "text": "LinkedIn post #4",
+      "done": true
+    },
+    {
+      "text": "Agent digest testing",
+      "done": true
+    },
+    {
+      "text": "Read AI papers",
+      "done": true
+    }
+  ],
+  "wins": [
+    "Closed a $500 AI audit",
+    "Great feedback from mentor"
+  ],
+  "lessons": [
+    "Automate before you scale manually"
+  ],
+  "createdAt": "2026-05-20T07:00:00Z",
+  "updatedAt": "2026-05-20T21:00:00Z"
+}

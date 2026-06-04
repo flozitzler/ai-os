@@ -1,0 +1,31 @@
+{
+  "date": "2026-05-18",
+  "mood": 8,
+  "energy": 8,
+  "sleepHours": 8.5,
+  "dayRating": 7,
+  "gratitude": "Made real progress on the video pipeline",
+  "notes": "Spent the afternoon on the internship report. Chapter 3 is done.",
+  "topPriorities": [
+    {
+      "text": "LinkedIn post #4",
+      "done": true
+    },
+    {
+      "text": "Agent digest testing",
+      "done": true
+    },
+    {
+      "text": "Read AI papers",
+      "done": true
+    }
+  ],
+  "wins": [
+    "Meditation streak: 7 days"
+  ],
+  "lessons": [
+    "Ship imperfect, iterate fast"
+  ],
+  "createdAt": "2026-05-18T07:00:00Z",
+  "updatedAt": "2026-05-18T21:00:00Z"
+}

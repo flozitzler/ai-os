@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-22",
+  "mood": 8,
+  "energy": 9,
+  "sleepHours": 6.2,
+  "dayRating": 7,
+  "gratitude": "Shipped something meaningful today",
+  "notes": "Solid day. High energy, good output.",
+  "topPriorities": [
+    {
+      "text": "Morning brief optimization",
+      "done": false
+    },
+    {
+      "text": "Flowsulting resources page",
+      "done": false
+    },
+    {
+      "text": "Exercise",
+      "done": true
+    }
+  ],
+  "wins": [
+    "Morning brief running flawlessly",
+    "Good exercise session"
+  ],
+  "lessons": [
+    "Take breaks \u2014 productivity drops after 4h straight"
+  ],
+  "createdAt": "2026-05-22T07:00:00Z",
+  "updatedAt": "2026-05-22T21:00:00Z"
+}
