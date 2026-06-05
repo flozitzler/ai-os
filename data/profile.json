@@ -6,9 +6,9 @@
   "lifeAreas": {
     "health": { "score": 7, "updatedAt": "2026-06-02" },
     "finance": { "score": 6, "updatedAt": "2026-06-01" },
-    "career": { "score": 8, "updatedAt": "2026-06-03" },
+    "career": { "score": 8, "updatedAt": "2026-06-05" },
     "relationships": { "score": 7, "updatedAt": "2026-05-28" },
-    "growth": { "score": 9, "updatedAt": "2026-06-03" },
-    "fulfillment": { "score": 8, "updatedAt": "2026-06-02" }
+    "growth": { "score": 9, "updatedAt": "2026-06-05" },
+    "fulfillment": { "score": 8, "updatedAt": "2026-06-05" }
   }
 }

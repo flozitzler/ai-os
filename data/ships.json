@@ -1,5 +1,6 @@
 {
   "entries": [
+    { "id": "s0", "date": "2026-06-05", "title": "Flow OS + AI OS dashboards refreshed", "description": "Updated cost data, removed stale hardcoded values, fixed Flow OS branding, added June 5 check-in and habit tracking", "category": "product", "impact": "medium", "createdAt": "2026-06-05T14:00:00Z" },
     { "id": "s1", "date": "2026-06-04", "title": "AI OS deployed to Vercel", "description": "Life-system dashboard live and linked with Flowsulting", "category": "product", "impact": "launch", "createdAt": "2026-06-04T10:00:00Z" },
     { "id": "s2", "date": "2026-06-03", "title": "NeuraDe merge complete", "description": "All content, leads, and branding consolidated into Flowsulting", "category": "product", "impact": "big", "createdAt": "2026-06-03T14:00:00Z" },
     { "id": "s3", "date": "2026-06-02", "title": "AI research triggers live", "description": "3 automated agents: Slack brief, blog email, breaking news scanner every 6h", "category": "automation", "impact": "big", "createdAt": "2026-06-02T09:00:00Z" },

@@ -10,6 +10,7 @@
     { "id": "no-phone", "name": "No phone after 10pm", "emoji": "moon", "block": "evening", "createdAt": "2026-04-20" }
   ],
   "completions": {
+    "2026-06-05": { "wake-early": true, "meditate": true, "exercise": false, "deep-work": true, "ship": true, "read": false, "gratitude": false, "no-phone": false },
     "2026-06-04": { "wake-early": true, "meditate": true, "exercise": false, "deep-work": true, "ship": true, "read": false, "gratitude": false, "no-phone": false },
     "2026-06-03": { "wake-early": true, "meditate": true, "exercise": true, "deep-work": true, "ship": true, "read": true, "gratitude": true, "no-phone": true },
     "2026-06-02": { "wake-early": true, "meditate": false, "exercise": true, "deep-work": true, "ship": true, "read": true, "gratitude": true, "no-phone": false },
